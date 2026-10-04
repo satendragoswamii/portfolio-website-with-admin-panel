@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio</title>
+  <meta name="description" content="" />
+  <meta name="theme-color" content="#f7f7fa" />
+  <script>
+    // Apply saved theme before paint to avoid a flash
+    try {
+      var t = localStorage.getItem('theme');
+      if (t !== 'light' && t !== 'dark') t = null;
+      document.documentElement.dataset.theme = t || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    } catch (e) {}
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Inter:wght@400..700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/palette.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div class="progress" id="progress"></div>
+
+  <header class="nav-wrap" id="navWrap">
+    <nav class="nav" aria-label="Main">
+      <a href="#top" class="brand" id="brand"><span class="logo" id="logo"></span><span class="brand-name" id="brandName"></span></a>
+      <div class="nav-links" id="navLinks"></div>
+      <div class="nav-actions">
+        <button class="icon-btn theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+          <i data-lucide="moon" class="i-moon"></i><i data-lucide="sun" class="i-sun"></i>
+        </button>
+        <a href="#sec-connect" class="btn btn-primary btn-sm nav-cta" id="navCta">Let's talk</a>
+        <button class="icon-btn nav-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false"><i data-lucide="menu"></i></button>
+      </div>
+    </nav>
+  </header>
+
+  <nav class="dotnav" id="dotNav" aria-label="Page sections" hidden></nav>
+
+  <main id="top">
+    <div class="loader" id="loader"><span></span></div>
+    <div id="app"></div>
+  </main>
+
+  <footer class="footer" id="footer"></footer>
+
+  <button class="to-top" id="toTop" aria-label="Back to top"><i data-lucide="arrow-up"></i></button>
+  <div class="toast" id="toast" role="status"></div>
+
+  <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
+  <script src="/js/graphics.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>

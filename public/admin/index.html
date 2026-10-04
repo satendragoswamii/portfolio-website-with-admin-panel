@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex" />
+  <title>Portfolio Admin</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/palette.css" />
+  <link rel="stylesheet" href="/admin/admin.css" />
+</head>
+<body>
+  <!-- Login -->
+  <div class="login-screen" id="loginScreen" hidden>
+    <form class="login-card" id="loginForm">
+      <h1>Portfolio Admin</h1>
+      <p>Sign in to manage your site.</p>
+      <input type="email" id="email" placeholder="Email" autocomplete="username" required autofocus />
+      <input type="password" id="password" placeholder="Password" autocomplete="current-password" required />
+      <button class="btn primary" type="submit">Sign in</button>
+      <div class="error" id="loginError"></div>
+    </form>
+  </div>
+
+  <!-- Dashboard -->
+  <div class="shell" id="shell" hidden>
+    <aside class="side">
+      <div class="side-head">
+        <strong>Portfolio Admin</strong>
+        <a href="/" target="_blank" class="view-site"><i data-lucide="external-link"></i> View site</a>
+      </div>
+      <nav id="nav"></nav>
+      <button class="logout" id="logoutBtn"><i data-lucide="log-out"></i> Log out</button>
+    </aside>
+
+    <main class="main">
+      <header class="bar">
+        <div>
+          <h2 id="sectionTitle"></h2>
+          <p class="muted" id="sectionHelp"></p>
+        </div>
+        <div class="bar-actions">
+          <span class="status" id="status"></span>
+          <button class="btn primary" id="saveBtn" disabled><i data-lucide="save"></i> Save changes</button>
+        </div>
+      </header>
+      <div id="editor" class="editor"></div>
+    </main>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
+  <script src="/js/graphics.js"></script>
+  <script src="/admin/schema.js"></script>
+  <script src="/admin/admin.js"></script>
+</body>
+</html>

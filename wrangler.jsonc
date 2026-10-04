@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Your Worker's name (must match the name in the Cloudflare dashboard if you deploy from GitHub)
+  "name": "my-portfolio",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    // The home page goes through the Worker so SEO / share-preview tags are filled in server-side
+    "run_worker_first": ["/"]
+  },
+  "kv_namespaces": [
+    {
+      "binding": "PORTFOLIO",
+      // Replace with your KV namespace ID (see DEPLOY.md, step 3)
+      "id": "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
+    }
+  ],
+  "observability": { "enabled": true }
+}

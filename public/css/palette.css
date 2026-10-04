@@ -1,0 +1,10 @@
+/* Shared colour tokens for pills / icons (used by site + admin) */
+.c-red    { --pill-bg: #fde4e4; --pill-fg: #b42318; --pill-icon: #e5484d; }
+.c-blue   { --pill-bg: #e0efff; --pill-fg: #1e4fa8; --pill-icon: #2f80ed; }
+.c-green  { --pill-bg: #dff5e3; --pill-fg: #1d6b34; --pill-icon: #2e9e4f; }
+.c-purple { --pill-bg: #ece4fb; --pill-fg: #5b2a9e; --pill-icon: #7c4dcc; }
+.c-yellow { --pill-bg: #fdf1cf; --pill-fg: #7a5600; --pill-icon: #e8b10b; }
+.c-orange { --pill-bg: #ffe8d6; --pill-fg: #a1460a; --pill-icon: #f07a24; }
+.c-pink   { --pill-bg: #fde3f1; --pill-fg: #a21a63; --pill-icon: #e0499a; }
+.c-teal   { --pill-bg: #d9f4f1; --pill-fg: #0f6b62; --pill-icon: #16a394; }
+.c-gray   { --pill-bg: #ececef; --pill-fg: #3f3f46; --pill-icon: #71717a; }

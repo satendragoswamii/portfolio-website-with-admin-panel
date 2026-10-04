@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-website-with-admin-panel",
+  "version": "1.0.0",
+  "description": "Personal portfolio website with a full admin panel. Runs free on Cloudflare Workers + KV, or locally with Node.js.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "cf:dev": "wrangler dev",
+    "cf:seed:local": "node scripts/seed-kv.mjs --local",
+    "cf:seed": "node scripts/seed-kv.mjs --remote",
+    "cf:deploy": "wrangler deploy",
+    "set-admin": "node scripts/set-admin.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.4.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.147.0"
+  },
+  "license": "MIT"
+}

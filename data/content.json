@@ -1,0 +1,990 @@
+{
+  "settings": {
+    "siteTitle": "Satendra Goswami | Web Developer & IT Support Engineer",
+    "headerTitle": "ABOUT ME",
+    "metaDescription": "Web developer and IT Support Engineer with 8+ years in IT, building web apps with Python, React and Firebase on a strong base of servers, databases and LMS.",
+    "accentColor": "#ff6b6b",
+    "showNav": true,
+    "footerText": "© 2026 Satendra Goswami · Web Developer & IT Support Engineer",
+    "accentColor2": "#7c5cff",
+    "defaultTheme": "light",
+    "metaKeywords": "Satendra Goswami, Web Developer, Web Application Developer, Python, React, Redux Toolkit, Firebase, JavaScript, Real-time Chat App, Online Exam Platform, LMS, IT Support Engineer, System Administrator, Windows Server, Linux, AWS, SQL Server, Cloudflare Workers, GitHub, Madhya Pradesh, Indore, Bhopal",
+    "showMarquee": true,
+    "showGraphics": true,
+    "showDotNav": true,
+    "collapseOlderRoles": true
+  },
+  "profile": {
+    "name": "Satendra Goswami",
+    "greeting": "Hi there, I'm",
+    "headline": "Web Developer · IT Support Engineer · LMS & Online Exam Platforms",
+    "typedPrefix": "I work on",
+    "intro": "I build web applications, from online exam platforms to real-time chat, on top of 8+ years of hands-on IT experience with servers, databases and platforms used by 5,000+ people.",
+    "availability": "Open to web development & IT roles",
+    "caption": "Who is Satendra?",
+    "avatar": "/img/default-avatar.svg",
+    "about": "I'm a web developer with a strong IT foundation. I design and build web applications that solve real problems, such as AttendanceIQ for Zoom attendance, Quizify for online exams and VartaApp for real-time chat, and I bring 8+ years of hands-on experience in technical support, system administration, LMS administration and online examination platforms.\n\nAt Team Computers, I support TimesPro and IIM Indore, administering the LMS, resolving learner issues through Salesforce ticketing, supporting live Zoom sessions for IIM faculty, configuring online exams on Mettl and maintaining studio broadcast systems.\n\nEarlier roles at Flipkart, CF Technologies & Aptech, NGRT Systems (Apple Authorized Service Center) and Bitla Software gave me a strong base in remote support, Windows Server, SQL Server, IIS, LAMP, LAN networking and hardware troubleshooting. I have also worked with AWS, I'm comfortable on Linux, I have worked across all commonly used versions of Windows, and I use macOS Tahoe as my primary system.\n\nI have supported 5,000+ users and worked on 200+ government assessment projects, including command-centre operations for the Rajasthan Police, UPPCL and AIIMS Nursing examinations.\n\nMy biggest strength is R&D: give me an unfamiliar task and I'll research it, learn what's needed and get it done. I also look for smarter ways of working, I enjoy turning ideas into practical tools that simplify repetitive work. I’ve designed and built projects such as AttendanceIQ and Quizify based on my own concepts, using modern development tools and AI to turn ideas into working solutions quickly. I’m particularly interested in building SaaS products that automate repetitive tasks, improve productivity, and help teams get more work done in less time.",
+    "email": "",
+    "phone": "",
+    "resume": "",
+    "ctaTitle": "Have a project or a role in mind?",
+    "ctaText": "I'm open to web development and IT roles, and to building web apps that save teams time. Tell me what you need and I'll get back to you."
+  },
+  "labels": {
+    "navCta": "Hire me",
+    "heroPrimary": "Get in touch",
+    "heroWork": "View my work",
+    "heroAbout": "More about me",
+    "greetingEmoji": "👋",
+    "findMeOn": "Find me on",
+    "resume": "Resume",
+    "downloadResume": "Download Resume",
+    "featuredProject": "Featured project",
+    "liveDemo": "Live demo",
+    "source": "Source",
+    "viewCredential": "View credential",
+    "viewDetails": "View responsibilities ({n})",
+    "hideDetails": "Hide responsibilities",
+    "skillsCount": "{n} skills",
+    "educationHeading": "Education",
+    "sendEmail": "Send an email",
+    "copyEmail": "Copy email",
+    "emailCopied": "Email copied to clipboard",
+    "loadError": "Could not load content. Please refresh.",
+    "roleMore": "Show role details ({n})",
+    "roleLess": "Hide role details",
+    "dotNavTop": "Top",
+    "testimonialSource": "View original"
+  },
+  "stats": [
+    {
+      "value": "3",
+      "label": "Web apps built & deployed",
+      "icon": "rocket"
+    },
+    {
+      "value": "8+",
+      "label": "Years in IT",
+      "icon": "calendar-days"
+    },
+    {
+      "value": "5,000+",
+      "label": "Users supported",
+      "icon": "users"
+    },
+    {
+      "value": "200+",
+      "label": "Govt. assessment projects",
+      "icon": "landmark"
+    }
+  ],
+  "info": [
+    {
+      "icon": "code",
+      "color": "blue",
+      "label": "Focus",
+      "value": "Web apps · Python, React, Firebase"
+    },
+    {
+      "icon": "briefcase",
+      "color": "blue",
+      "label": "Current Role",
+      "value": "IT Support Engineer · Team Computers"
+    },
+    {
+      "icon": "map-pin",
+      "color": "red",
+      "label": "Based in",
+      "value": "Madhya Pradesh, India"
+    },
+    {
+      "icon": "building-2",
+      "color": "purple",
+      "label": "Supporting",
+      "value": "TimesPro & IIM Indore"
+    },
+    {
+      "icon": "calendar-days",
+      "color": "green",
+      "label": "Experience",
+      "value": "8+ Years in IT"
+    },
+    {
+      "icon": "languages",
+      "color": "orange",
+      "label": "Languages",
+      "value": "Hindi, English"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "web applications",
+      "icon": "code",
+      "color": "blue"
+    },
+    {
+      "label": "online exam platforms",
+      "icon": "file-check-2",
+      "color": "yellow"
+    },
+    {
+      "label": "LMS platforms",
+      "icon": "graduation-cap",
+      "color": "purple"
+    },
+    {
+      "label": "real-time chat apps",
+      "icon": "message-circle",
+      "color": "pink"
+    },
+    {
+      "label": "servers & databases",
+      "icon": "server",
+      "color": "teal"
+    },
+    {
+      "label": "technical support",
+      "icon": "headphones",
+      "color": "red"
+    },
+    {
+      "label": "process improvement",
+      "icon": "trending-up",
+      "color": "green"
+    },
+    {
+      "label": "system administration",
+      "icon": "server",
+      "color": "blue",
+      "hidden": true
+    },
+    {
+      "label": "LMS administration",
+      "icon": "graduation-cap",
+      "color": "purple",
+      "hidden": true
+    },
+    {
+      "label": "online examinations",
+      "icon": "file-check-2",
+      "color": "yellow",
+      "hidden": true
+    },
+    {
+      "label": "IT infrastructure",
+      "icon": "network",
+      "color": "teal",
+      "hidden": true
+    },
+    {
+      "label": "database management",
+      "icon": "database",
+      "color": "orange",
+      "hidden": true
+    },
+    {
+      "label": "R&D and problem solving",
+      "icon": "search",
+      "color": "green",
+      "hidden": true
+    },
+    {
+      "label": "WordPress",
+      "icon": "globe",
+      "color": "pink",
+      "hidden": true
+    }
+  ],
+  "expertise": [
+    {
+      "title": "Web Application Development",
+      "icon": "code",
+      "color": "blue",
+      "description": "Designing and building web apps end to end, from idea and interface to database, login and deployment, using Python, React and Firebase."
+    },
+    {
+      "title": "Real-time & Interactive Apps",
+      "icon": "message-circle",
+      "color": "pink",
+      "description": "Real-time messaging, secure authentication, role-based dashboards and responsive UI, as built in VartaApp with React, Redux Toolkit and Firebase."
+    },
+    {
+      "title": "EdTech, LMS & Online Exams",
+      "icon": "graduation-cap",
+      "color": "purple",
+      "description": "Hands-on domain knowledge from administering the LMS and Mettl exams for TimesPro and IIM Indore, which I turned into tools like Quizify and AttendanceIQ."
+    },
+    {
+      "title": "Server & Infrastructure Administration",
+      "icon": "server",
+      "color": "blue",
+      "description": "Windows Server 2008/2012/2016, SQL Server, IIS and LAMP — server deployment, LAN configuration, security, database backups, FTP transfers and hardware maintenance."
+    },
+    {
+      "title": "Enterprise Technical Support",
+      "icon": "headphones",
+      "color": "red",
+      "description": "Remote troubleshooting, incident resolution and application rollouts — guiding users by call, email and chat and owning every issue through to resolution."
+    },
+    {
+      "title": "Research & Problem Solving",
+      "icon": "search",
+      "color": "green",
+      "description": "Quick to learn and comfortable with the unknown — I research any new task, platform or problem, find what works and see it through to a working result."
+    },
+    {
+      "title": "LMS Administration",
+      "icon": "graduation-cap",
+      "color": "purple",
+      "description": "End-to-end LMS administration for TimesPro and IIM Indore — batches, learner enrolment and access, study materials, Salesforce tickets and support for 5,000+ users.",
+      "hidden": true
+    },
+    {
+      "title": "Online Examination Operations",
+      "icon": "file-check-2",
+      "color": "orange",
+      "description": "Exam setup on Mettl, candidate support, proctoring and reporting — plus command-centre and exam-centre operations across 200+ government assessments.",
+      "hidden": true
+    },
+    {
+      "title": "Process Improvement & Tools",
+      "icon": "trending-up",
+      "color": "pink",
+      "description": "I spot repetitive work and build practical tools to remove it — like AttendanceIQ for Zoom attendance and Quizify for online exams — saving hours of manual effort.",
+      "hidden": true
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2013",
+      "title": "TCS Rural IT Quiz",
+      "subtitle": "Volunteer",
+      "hidden": true
+    },
+    {
+      "year": "2014 – 2017",
+      "title": "B.A., Bhoj University",
+      "subtitle": "Education"
+    },
+    {
+      "year": "2016 – 2017",
+      "title": "Technical Executive",
+      "subtitle": "Verma Travels / Bitla Software"
+    },
+    {
+      "year": "2017 – 2018",
+      "title": "Service Engineer & Trainer",
+      "subtitle": "NGRT Systems · Apple Authorized Service Center"
+    },
+    {
+      "year": "2018 – 2019",
+      "title": "System Administrator",
+      "subtitle": "CF Technologies & Aptech"
+    },
+    {
+      "year": "2019 – 2022",
+      "title": "IT Support Engineer",
+      "subtitle": "Flipkart Internet Services"
+    },
+    {
+      "year": "2019",
+      "title": "CSC Point",
+      "subtitle": "Kushal Computer",
+      "hidden": true
+    },
+    {
+      "year": "2022 – Present",
+      "title": "IT Support Engineer",
+      "subtitle": "Team Computers · TimesPro & IIM Indore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "IT Support Engineer",
+      "company": "Team Computers Pvt. Ltd. · Client: TimesPro & IIM Indore",
+      "location": "Indore, Madhya Pradesh, India",
+      "start": "August 2022",
+      "end": "Present",
+      "description": "### LMS Administration\n- Administer the LMS for TimesPro and IIM Indore end to end\n- Create batches, enrol learners and manage user access\n- Upload and maintain online study materials\n- Resolve learner queries and technical issues via Salesforce ticketing\n- Provide ongoing technical support to 5,000+ users\n\n### Live Session Support\n- Provide technical support to IIM faculty during weekend Zoom sessions\n- Troubleshoot live-session issues to keep classes running\n- Manage session recordings on Vimeo\n- Set up online batches and onboard learners\n- Send welcome and session communications\n\n### Online Examination Management\n- Configure online examinations on the Mettl assessment platform\n- Support learners during live examinations and proctoring\n- Prepare examination reports and share them with the institute\n\n### Studio & Technical Operations\n- Monitor and maintain studio systems used for online broadcasting\n- Maintain technical equipment and infrastructure\n- Resolve technical issues during live sessions"
+    },
+    {
+      "role": "IT Support Engineer",
+      "company": "Flipkart Internet Services Pvt. Ltd.",
+      "location": "Remote, India",
+      "start": "2019",
+      "end": "2022",
+      "description": "- Delivered remote technical support to users through remote-access tools\n- Diagnosed and resolved system and application issues, managing multiple open incidents in parallel\n- Supported the rollout of new applications\n- Guided users through troubleshooting by call, email and chat, owning issues through to resolution\n- Researched recurring problems and tailored solutions to client requirements"
+    },
+    {
+      "role": "Owner & Operator — Common Services Center",
+      "company": "CSC Point — Kushal Computer",
+      "location": "",
+      "start": "2019",
+      "end": "",
+      "description": "Owned and operated a Common Services Center providing:\n\n- Computer-related services\n- Banking and insurance-related services\n- Online examination services\n- Assistance with government schemes\n- Digital literacy and online security awareness",
+      "hidden": true
+    },
+    {
+      "role": "System Administrator",
+      "company": "CF Technologies & Aptech Ltd.",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "start": "2018",
+      "end": "2019",
+      "description": "### Digital Evaluation Project\n- Performed UAT and POC for the Digital Evaluation application\n- Configured and deployed LAMP servers\n- Managed servers and provided remote and on-site technical support\n- Handled hardware maintenance\n\n### Online Assessment Project\n- Configured Windows Server 2008/2012 and IIS\n- Administered SQL Server 2008/2012, including database backups\n- Transferred database backups to FTP servers\n- Managed servers, remote support and hardware maintenance"
+    },
+    {
+      "role": "Service Engineer & Service Engineer Trainer",
+      "company": "NGRT Systems Pvt. Ltd. — Apple Authorized Service Center",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "start": "2017",
+      "end": "2018",
+      "description": "- Diagnosed and resolved hardware and software issues on Apple devices\n- Worked directly with customers to understand and solve technical problems\n- Managed SAP service procedures; created and closed service job sheets\n- Trained and guided team members on service operations"
+    },
+    {
+      "role": "Technical Executive",
+      "company": "Verma Travels — Bitla Software Pvt. Ltd.",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "start": "2016",
+      "end": "2017",
+      "description": "- Provided day-to-day technical support\n- Managed databases and SAP procedures\n- Built the ticket refund process\n- Kept vehicle information on the server up to date"
+    }
+  ],
+  "assessments": [
+    {
+      "name": "Rajasthan Police Examination",
+      "role": "CR Engineer",
+      "organization": "Aptech Ltd.",
+      "location": "Bhopal",
+      "year": "2018",
+      "icon": "shield-check",
+      "description": "- Worked from the examination Command Center in Bhopal\n- Configured Windows Server 2016 and SQL databases\n- Maintained server security and imported examination papers\n- Monitored candidate activity and the centre LAN during exams\n- Performed post-exam SQL backups and system-log backups\n- Uploaded examination data to the project FTP server"
+    },
+    {
+      "name": "UPPCL Examination",
+      "role": "CR Support Engineer",
+      "organization": "Aptech Ltd.",
+      "location": "Lucknow",
+      "year": "2018",
+      "icon": "zap",
+      "description": "- Managed technical operations at the examination centre\n- Set up exam servers, candidate PCs and LAN connectivity\n- Restricted wireless communication during examinations\n- Monitored candidate systems and resolved technical issues\n- Supported Command Center engineers during connectivity issues"
+    },
+    {
+      "name": "AIIMS Nursing Examination",
+      "role": "CR Engineer",
+      "organization": "Aptech Ltd.",
+      "location": "Bhopal",
+      "year": "2018",
+      "icon": "heart-pulse",
+      "description": "- Worked from the examination Command Center in Bhopal\n- Configured Windows Server 2016 and SQL databases\n- Maintained server security and imported examination papers\n- Monitored candidate activity and the centre LAN during exams\n- Performed post-exam SQL backups and system-log backups\n- Uploaded examination data to the project FTP server"
+    },
+    {
+      "name": "TCS Rural IT Quiz",
+      "role": "Volunteer",
+      "organization": "TCS",
+      "location": "",
+      "year": "2013",
+      "icon": "trophy",
+      "description": "- Assisted in managing an IT quiz event for school students\n- Registered students through the event portal\n- Supported event IT operations\n- Maintained network security during the event",
+      "hidden": true
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Web Development",
+      "level": 0
+    },
+    {
+      "name": "React",
+      "category": "Web Development",
+      "level": 0
+    },
+    {
+      "name": "Redux Toolkit",
+      "category": "Web Development",
+      "level": 0
+    },
+    {
+      "name": "Firebase",
+      "category": "Web Development",
+      "level": 0
+    },
+    {
+      "name": "JavaScript",
+      "category": "Web Development",
+      "level": 0
+    },
+    {
+      "name": "HTML & CSS",
+      "category": "Web Development",
+      "level": 0
+    },
+    {
+      "name": "Responsive UI",
+      "category": "Web Development",
+      "level": 0
+    },
+    {
+      "name": "SaaS Prototyping",
+      "category": "Web Development",
+      "level": 0
+    },
+    {
+      "name": "WordPress",
+      "category": "Web Development",
+      "level": 0
+    },
+    {
+      "name": "Git & GitHub",
+      "category": "Tools & Deployment",
+      "level": 0
+    },
+    {
+      "name": "PythonAnywhere",
+      "category": "Tools & Deployment",
+      "level": 0
+    },
+    {
+      "name": "Firebase Hosting",
+      "category": "Tools & Deployment",
+      "level": 0
+    },
+    {
+      "name": "Cloudflare Workers",
+      "category": "Tools & Deployment",
+      "level": 0
+    },
+    {
+      "name": "Playwright",
+      "category": "Tools & Deployment",
+      "level": 0
+    },
+    {
+      "name": "AI-assisted Development",
+      "category": "Tools & Deployment",
+      "level": 0
+    },
+    {
+      "name": "System Administration",
+      "category": "Systems & Infrastructure",
+      "level": 0
+    },
+    {
+      "name": "Server Management",
+      "category": "Systems & Infrastructure",
+      "level": 0
+    },
+    {
+      "name": "Server Deployment",
+      "category": "Systems & Infrastructure",
+      "level": 0
+    },
+    {
+      "name": "IT Infrastructure Management",
+      "category": "Systems & Infrastructure",
+      "level": 0
+    },
+    {
+      "name": "LAN/WAN",
+      "category": "Systems & Infrastructure",
+      "level": 0
+    },
+    {
+      "name": "VPN",
+      "category": "Systems & Infrastructure",
+      "level": 0
+    },
+    {
+      "name": "NOC Operations",
+      "category": "Systems & Infrastructure",
+      "level": 0
+    },
+    {
+      "name": "Hardware Maintenance",
+      "category": "Systems & Infrastructure",
+      "level": 0
+    },
+    {
+      "name": "Remote Support",
+      "category": "Systems & Infrastructure",
+      "level": 0
+    },
+    {
+      "name": "Windows (all common desktop versions)",
+      "category": "Operating Systems & Cloud",
+      "level": 0
+    },
+    {
+      "name": "Windows Server 2008 / 2012 / 2016",
+      "category": "Operating Systems & Cloud",
+      "level": 0
+    },
+    {
+      "name": "macOS (Tahoe)",
+      "category": "Operating Systems & Cloud",
+      "level": 0
+    },
+    {
+      "name": "Linux",
+      "category": "Operating Systems & Cloud",
+      "level": 0
+    },
+    {
+      "name": "AWS",
+      "category": "Operating Systems & Cloud",
+      "level": 0
+    },
+    {
+      "name": "SQL Server",
+      "category": "Database",
+      "level": 0
+    },
+    {
+      "name": "Database Management",
+      "category": "Database",
+      "level": 0
+    },
+    {
+      "name": "SQL Database Backup & Recovery",
+      "category": "Database",
+      "level": 0
+    },
+    {
+      "name": "FTP Data Transfer",
+      "category": "Database",
+      "level": 0
+    },
+    {
+      "name": "User Management",
+      "category": "Database",
+      "level": 0
+    },
+    {
+      "name": "Bulk Data Handling",
+      "category": "Database",
+      "level": 0
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "category": "IT Support",
+      "level": 0
+    },
+    {
+      "name": "Incident Resolution",
+      "category": "IT Support",
+      "level": 0
+    },
+    {
+      "name": "Remote Technical Support",
+      "category": "IT Support",
+      "level": 0
+    },
+    {
+      "name": "Help Desk Ticketing",
+      "category": "IT Support",
+      "level": 0
+    },
+    {
+      "name": "Application Support",
+      "category": "IT Support",
+      "level": 0
+    },
+    {
+      "name": "Customer Support",
+      "category": "IT Support",
+      "level": 0
+    },
+    {
+      "name": "User Training",
+      "category": "IT Support",
+      "level": 0
+    },
+    {
+      "name": "Configuration & Upgrading",
+      "category": "IT Support",
+      "level": 0
+    },
+    {
+      "name": "System Integration",
+      "category": "IT Support",
+      "level": 0
+    },
+    {
+      "name": "LMS Administration",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "Online Examination Platforms",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "Mettl",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "Exam Proctoring Support",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "Salesforce Ticketing",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "Zoom",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "Vimeo",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "Studio Broadcast Systems",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "IIS",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "LAMP",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "SAP Procedures",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "Outlook",
+      "category": "Application & Platform Administration",
+      "level": 0
+    },
+    {
+      "name": "Apple Device Troubleshooting",
+      "category": "Devices & Security",
+      "level": 0
+    },
+    {
+      "name": "Android OS",
+      "category": "Devices & Security",
+      "level": 0
+    },
+    {
+      "name": "Android Custom ROM Testing",
+      "category": "Devices & Security",
+      "level": 0,
+      "hidden": true
+    },
+    {
+      "name": "System Security",
+      "category": "Devices & Security",
+      "level": 0
+    },
+    {
+      "name": "Backup & Recovery",
+      "category": "Devices & Security",
+      "level": 0
+    },
+    {
+      "name": "Research & Development (R&D)",
+      "category": "Professional Skills",
+      "level": 0
+    },
+    {
+      "name": "Process Improvement",
+      "category": "Professional Skills",
+      "level": 0
+    },
+    {
+      "name": "Problem Solving",
+      "category": "Professional Skills",
+      "level": 0
+    },
+    {
+      "name": "Client Communication",
+      "category": "Professional Skills",
+      "level": 0
+    },
+    {
+      "name": "Technical Training",
+      "category": "Professional Skills",
+      "level": 0
+    },
+    {
+      "name": "Teamwork",
+      "category": "Professional Skills",
+      "level": 0
+    },
+    {
+      "name": "Adaptability",
+      "category": "Professional Skills",
+      "level": 0
+    },
+    {
+      "name": "Multitasking",
+      "category": "Professional Skills",
+      "level": 0
+    },
+    {
+      "name": "Self-Motivated",
+      "category": "Professional Skills",
+      "level": 0,
+      "hidden": true
+    },
+    {
+      "name": "Quick Learner",
+      "category": "Professional Skills",
+      "level": 0
+    }
+  ],
+  "projects": [
+    {
+      "name": "AttendanceIQ",
+      "description": "A web tool for schools, colleges, universities, and organizations running online Zoom classes that need accurate attendance. The problem: during a Zoom class, learners join late, leave early, disconnect, and rejoin. Working out by hand who attended \"enough\" time is slow and error-prone. The solution: upload your Zoom participant report → configure sessions and rules → download an attendance report with Present/Absent status and shortfall details.",
+      "image": "",
+      "link": "https://attendanceiq.pythonanywhere.com/",
+      "repo": "https://github.com/satendragoswamii/AttendanceIQ",
+      "tags": "Python, Web App, Zoom Reports, Excel"
+    },
+    {
+      "name": "Quizify",
+      "description": "Converts quiz documents in almost any format, Word, PDF, spreadsheets, web pages, plain text, or photos into structured questions and exports them to Excel, CSV, or JSON. It also includes AI-assisted processing, an admin panel, question bank, student portal, online exam management, auto-grading, and live proctoring. Designed around my interest in simplifying assessment workflows, reducing repetitive tasks, and making quiz creation and exam management faster and more efficient.",
+      "image": "",
+      "link": "https://attendancify.pythonanywhere.com/",
+      "repo": "https://github.com/satendragoswamii/Quizify",
+      "tags": "Python, AI-assisted Parsing, Online Exams, Proctoring"
+    },
+    {
+      "name": "VartaApp — Chat App",
+      "description": "A modern, WhatsApp-inspired real-time chat application built with React 19, Firebase, and Redux Toolkit, featuring secure authentication, one-to-one and group messaging, read receipts, typing indicators, message editing, emoji support, profile management, and responsive desktop and mobile experiences. It also includes a dedicated admin dashboard with user management, role-based permissions, broadcast messaging, and conversation monitoring. Designed around my interest in building modern communication platforms with real-time functionality, clean UI, and practical administrative controls.",
+      "image": "",
+      "link": "https://studio-5956575145-1f0ad.web.app/login",
+      "repo": "https://github.com/satendragoswamii/VartaApp",
+      "tags": "React 19, Redux Toolkit, Firebase, Real-time"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "[SAMPLE, replace before showing] Satendra kept our LMS and online exams running smoothly and was always quick to solve issues. Replace this with a real quote from a manager.",
+      "name": "Sample Name",
+      "role": "Manager",
+      "company": "Company name",
+      "link": "",
+      "photo": "",
+      "hidden": true
+    },
+    {
+      "quote": "[SAMPLE, replace before showing] A reliable colleague who researches problems properly and follows them through to a fix. Replace this with a real quote from a colleague.",
+      "name": "Sample Name",
+      "role": "Colleague",
+      "company": "Company name",
+      "link": "",
+      "photo": "",
+      "hidden": true
+    },
+    {
+      "quote": "[SAMPLE, replace before showing] The tool Satendra built saved us hours of manual work every week. Replace this with a real quote from someone who used AttendanceIQ or Quizify.",
+      "name": "Sample Name",
+      "role": "User",
+      "company": "Organisation",
+      "link": "",
+      "photo": "",
+      "hidden": true
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts (B.A.)",
+      "institution": "Bhoj University, Bhopal",
+      "start": "2014",
+      "end": "2017",
+      "description": ""
+    },
+    {
+      "degree": "JCHNE & Cloud Computing",
+      "institution": "Jetking Institute, Bhopal",
+      "start": "2015",
+      "end": "2016",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "JCHNE — Jetking Computer & Hardware Networking Course",
+      "issuer": "Jetking Institute",
+      "year": "",
+      "link": ""
+    },
+    {
+      "name": "Jetking Basic Cloud Computing",
+      "issuer": "Jetking Institute",
+      "year": "",
+      "link": ""
+    },
+    {
+      "name": "TEC — Telecentre Entrepreneur Course",
+      "issuer": "",
+      "year": "",
+      "link": "",
+      "hidden": true
+    }
+  ],
+  "interests": [
+    {
+      "label": "Python & Playwright automation (self-taught)",
+      "icon": "code",
+      "color": "green"
+    },
+    {
+      "label": "Exploring new technology & AI tools",
+      "icon": "cpu",
+      "color": "purple"
+    },
+    {
+      "label": "Building SaaS ideas",
+      "icon": "rocket",
+      "color": "blue"
+    },
+    {
+      "label": "Self-learning from online resources",
+      "icon": "book-open",
+      "color": "orange"
+    }
+  ],
+  "socials": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/satendragoswami/",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/satendragoswamii",
+      "icon": "github"
+    }
+  ],
+  "sections": [
+    {
+      "key": "hero",
+      "eyebrow": "Hero",
+      "title": "Intro",
+      "subtitle": "",
+      "enabled": true,
+      "nav": false
+    },
+    {
+      "key": "about",
+      "eyebrow": "About",
+      "title": "What I do",
+      "subtitle": "",
+      "enabled": true,
+      "nav": true,
+      "navLabel": "About"
+    },
+    {
+      "key": "projects",
+      "eyebrow": "Portfolio",
+      "title": "Featured Projects",
+      "subtitle": "Web applications I designed, built and deployed, each one solving a real problem.",
+      "enabled": true,
+      "nav": true,
+      "navLabel": "Projects"
+    },
+    {
+      "key": "skills",
+      "eyebrow": "Toolkit",
+      "title": "Tech Stack & Skills",
+      "subtitle": "Languages, frameworks, platforms and systems I have hands-on experience with.",
+      "enabled": true,
+      "nav": true,
+      "navLabel": "Skills"
+    },
+    {
+      "key": "expertise",
+      "eyebrow": "What I bring",
+      "title": "Areas of Expertise",
+      "subtitle": "What I bring to web development, IT and EdTech teams.",
+      "enabled": true,
+      "nav": false
+    },
+    {
+      "key": "testimonials",
+      "eyebrow": "Testimonials",
+      "title": "What people say",
+      "subtitle": "",
+      "enabled": true,
+      "nav": true,
+      "navLabel": "Testimonials"
+    },
+    {
+      "key": "experience",
+      "eyebrow": "Career",
+      "title": "Work Experience",
+      "subtitle": "Hands-on IT roles across education technology, e-commerce, examination services and device support.",
+      "enabled": true,
+      "nav": true,
+      "navLabel": "Experience"
+    },
+    {
+      "key": "journey",
+      "eyebrow": "Journey",
+      "title": "Career at a glance",
+      "subtitle": "From my first technical role in 2016 to supporting TimesPro and IIM Indore today.",
+      "enabled": true,
+      "nav": false
+    },
+    {
+      "key": "assessments",
+      "eyebrow": "Large-scale projects",
+      "title": "Government & Assessment Projects",
+      "subtitle": "Command-centre and exam-centre operations across 200+ government assessment projects, selected highlights.",
+      "enabled": true,
+      "nav": true,
+      "navLabel": "Exam Projects"
+    },
+    {
+      "key": "education",
+      "eyebrow": "Learning",
+      "title": "Education & Certifications",
+      "subtitle": "",
+      "enabled": true,
+      "nav": true,
+      "navLabel": "Education"
+    },
+    {
+      "key": "certifications",
+      "eyebrow": "Credentials",
+      "title": "Courses & Certifications",
+      "subtitle": "",
+      "enabled": true,
+      "nav": false
+    },
+    {
+      "key": "interests",
+      "eyebrow": "Beyond work",
+      "title": "Hobbies & interests",
+      "subtitle": "What I explore in my own time — all self-taught.",
+      "enabled": true,
+      "nav": false
+    },
+    {
+      "key": "connect",
+      "eyebrow": "Contact",
+      "title": "Let's Connect",
+      "subtitle": "",
+      "enabled": true,
+      "nav": true,
+      "navLabel": "Contact"
+    }
+  ]
+}

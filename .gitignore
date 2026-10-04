@@ -1,0 +1,9 @@
+node_modules/
+data/auth.json
+data/backups/
+data/*.tmp
+uploads/
+site-snapshots/
+.wrangler/
+.dev.vars
+.DS_Store
