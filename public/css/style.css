@@ -807,3 +807,19 @@ svg.lucide { width: 18px; height: 18px; stroke-width: 2; flex-shrink: 0; }
 .q-who span { font-size: 13px; color: var(--muted); }
 .q-link { width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center; border: 1px solid var(--border); color: var(--muted); transition: 0.2s var(--ease); }
 .q-link:hover { color: var(--accent-2); border-color: var(--accent-2); }
+
+/* fixed author credit (not editable in the admin) */
+.footer-credit {
+  display: flex; align-items: center; justify-content: center; gap: 14px; flex-wrap: wrap;
+  margin-top: 26px; padding-top: 22px; border-top: 1px solid var(--border);
+  font-size: 13.5px; color: var(--muted);
+}
+.footer-credit a { color: var(--text); font-weight: 600; transition: color 0.2s; }
+.footer-credit a:hover { color: var(--accent-2); }
+.credit-links { display: inline-flex; gap: 8px; }
+.credit-links a {
+  width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center;
+  border: 1px solid var(--border); background: var(--surface); color: var(--muted);
+}
+.credit-links a:hover { color: var(--accent-2); border-color: var(--accent-2); transform: translateY(-2px); }
+.credit-links svg { width: 15px; height: 15px; }

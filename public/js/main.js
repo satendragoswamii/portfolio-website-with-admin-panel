@@ -550,10 +550,30 @@
       <a href="#top" class="brand"><span class="logo">${esc(initials)}</span>${esc(profile.name || '')}</a>
       <div class="footer-links">${inMenu.map((s) => `<a href="#${secId(s.key)}">${esc(navLabel(s))}</a>`).join('')}</div>
       <div class="footer-copy">${esc(settings.footerText || '')}</div>
-    </div>`;
+    </div>
+    ${creditHTML()}`;
 
     if (window.lucide) window.lucide.createIcons();
     enhance(d);
+  }
+
+  // ---------- author credit ----------
+  // Fixed credit for the creator of this template. Intentionally NOT part of the content/admin,
+  // so it always appears in the footer. Please keep it if you use this project (see LICENSE / NOTICE).
+  const AUTHOR = {
+    name: 'Satendra Goswami',
+    links: [
+      { label: 'GitHub', icon: 'github', url: 'https://github.com/satendragoswamii' },
+      { label: 'LinkedIn', icon: 'linkedin', url: 'https://www.linkedin.com/in/satendragoswami/' },
+      { label: 'WhatsApp', icon: 'whatsapp', url: 'https://wa.me/919074534985' },
+    ],
+  };
+  function creditHTML() {
+    return `<div class="container footer-credit">
+      <span>Built by <a href="${AUTHOR.links[0].url}" target="_blank" rel="noopener">${AUTHOR.name}</a></span>
+      <span class="credit-links">${AUTHOR.links.map((l) =>
+        `<a href="${l.url}" target="_blank" rel="noopener" aria-label="${AUTHOR.name} on ${l.label}" title="${l.label}">${icon(l.icon)}</a>`).join('')}</span>
+    </div>`;
   }
 
   // ---------- interactions ----------

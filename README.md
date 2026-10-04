@@ -112,6 +112,12 @@ node scripts/restore-snapshot.mjs my-site <kv-namespace-id>
 
 ---
 
+## Attribution
+
+Every site built with this project shows a small **"Built by Satendra Goswami"** credit with GitHub, LinkedIn and
+WhatsApp links in the footer. It is part of the code, not the admin content, so it stays whatever you edit in the
+admin panel. If you use this project, **please keep the credit**. Thank you! See [NOTICE](NOTICE).
+
 ## Credits
 
 Built by **Satendra Goswami** ([LinkedIn](https://www.linkedin.com/in/satendragoswami/) · [GitHub](https://github.com/satendragoswamii)).

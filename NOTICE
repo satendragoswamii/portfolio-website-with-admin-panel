@@ -1,0 +1,13 @@
+Portfolio Website with Admin Panel
+Copyright (c) 2026 Satendra Goswami
+https://github.com/satendragoswamii/portfolio-website-with-admin-panel
+
+This project was designed and built by Satendra Goswami.
+
+If you use this project (or a modified version of it) for a website, please keep the
+"Built by Satendra Goswami" credit and its links in the site footer. The credit is part
+of the code (public/js/main.js → AUTHOR / creditHTML) rather than the editable content,
+so it stays in place whatever you change in the admin panel.
+
+The MIT license (see LICENSE) also requires that the copyright notice above is kept in
+all copies or substantial portions of the software.
